@@ -3,4 +3,4 @@
 * Implemented a model to predict the temperature using the k nearest neighbors method.
 * Trained a supervised model to guess the season of a given weather data point using a naive-bayes classifier.
 
-![](/images/weatherImages.PNG)
+![](/weatherImages.PNG)
